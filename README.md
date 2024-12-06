@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kapibara app**
 
-- 👯 I’m looking to collaborate with **Java Developers (spigot-api)**
+<!--- 👯 I’m looking to collaborate with **Java Developers (spigot-api)**-->
 
 - 📫 How to reach me **gryglobox@gmail.com**
 
