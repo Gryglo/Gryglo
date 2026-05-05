@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Gryglo (Mateusz Grygiel)</h1>
-<h3 align="center">A 17 years old developer from Poland, passionate about programming games, applications and also competitive programming.
+<h1 align="center">Hi, I'm Gryglo (Mateusz Grygiel)</h1>
+<h3 align="center">A 18 years old developer from Poland.
 </h3>
 
-<!---- 🔭 I’m currently working on **Kapibara app**-->
-
-<!--- 👯 I’m looking to collaborate with **Java Developers (spigot-api)**-->
+<!---- 🔭 I’m currently working on **Competetive Programming**-->
 
 - 📫 How to reach me **gryglobox@gmail.com**
 
